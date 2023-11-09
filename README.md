@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">A Jack-of-all-trades Software Developer: Web, Games, Mobile, Desktop, Web3, AI? Name it.</h2>
+<p align="center">A Jack-of-all-trades Software Developer: Web, Games, Mobile, Desktop, Web3, AI? Name it.</h2>
 
 ###
 
