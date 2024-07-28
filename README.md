@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">I love you, my name is Leo Mark Castro</h1>
+<h1 align="center">Hello! I'm Leo</h1>
 
 ###
 
