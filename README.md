@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 Currently working at Xurpas XEI<br>👨‍💻 All of my projects are available at https://dev.leocastro.com/<br>📝 I developed and published an android game: https://play.google.com/store/apps/details?id=com.xyzgames.planetdefender3000&pli=1<br>💬 I also published some react npm packages: https://www.npmjs.com/~leomarkcastro<br/>Checkout my AI Chatbot APP, https://flai-tool.vercel.app<br/>Also check out my free excalidraw plus clone: https://write.app01.xyzapps.xyz</p>
+<p align="left">🔭 All of my projects are available at https://dev.leocastro.com/<br>📝 I developed and published an android game: https://play.google.com/store/apps/details?id=com.xyzgames.planetdefender3000&pli=1<br>💬 I also published some react npm packages: https://www.npmjs.com/~leomarkcastro<br/>Checkout my AI Chatbot APP, https://flai-tool.vercel.app<br/>Also check out my free excalidraw plus clone: https://write.app01.xyzapps.xyz</p>
 
 ###
 
